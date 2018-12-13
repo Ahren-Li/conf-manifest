@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project name="sublime-conf" path="sublime-conf" upstream="subl-3"/>
+	<project name="sublime-conf" path="sublime-3" revision="subl-3" />
 	<project name="script-conf" path="script" >
 		<linkfile dest="install.sh" src="install.sh"/>
 		<linkfile dest="linux/linux.sh" src="linux.sh"/>
