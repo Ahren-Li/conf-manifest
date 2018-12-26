@@ -6,4 +6,5 @@
 		<linkfile dest="linux/linux.sh" src="linux.sh"/>
 	</project>
 	<project name="conf-ubuntu" path="linux/ubuntu"/>
+	<project name="conf-linux-software" path="linux/software"/>
 </manifest>
